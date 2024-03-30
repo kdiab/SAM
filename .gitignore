@@ -1,0 +1,8 @@
+createtransitions.o
+debug.o
+main.o
+processframes.o
+reciter.o
+render.o
+sam
+sam.o
