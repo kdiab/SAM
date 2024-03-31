@@ -1,3 +1,5 @@
+./sam I am going to sing
+./sam The national Anthem of the U S A
 ./sam -sing -pitch 64 -phonetic ohohoh
 ./sam -sing -pitch 76 -phonetic ohohoh
 ./sam -sing -pitch 96 -phonetic sehehehehehehehehehey
